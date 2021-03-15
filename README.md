@@ -4,9 +4,10 @@ A Wallet app to organize your finances using the Firebase API.
 
 ## Technologies
 - React Native
-- TypeScript (Register, Login, DataBase)
-- Firabase
+- TypeScript
+- Firabase (Register, Login, DataBase)
 - Hooks
+- Expo
 
 ## Build Setup
 
