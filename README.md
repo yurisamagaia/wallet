@@ -17,7 +17,4 @@ yarn install
 
 # Running APP
 yarn start
-
-# Running tests
-yarn test
 ```
