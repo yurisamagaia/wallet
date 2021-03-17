@@ -16,5 +16,5 @@ A Wallet app to organize your finances using the Firebase API.
 yarn install
 
 # Running APP
-yarn start
+expo start
 ```
